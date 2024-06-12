@@ -1,0 +1,17 @@
+openai
+nltk
+rouge
+datasets
+langchain
+langchain_community
+google-generativeai
+grpc
+grpcio
+proto-plus
+torch
+transformers
+xgboost
+scikit-learn
+evaluate
+sentence_transformers
+accelerate
