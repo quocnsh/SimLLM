@@ -23,6 +23,7 @@ To run the script, use the following command:
 - `LLMs`: List of large language models to use. Available models include 'ChatGPT', 'Yi', 'OpenChat', 'Gemini', 'LLaMa', 'Phi', 'Mixtral', 'QWen', 'OLMO', 'WizardLM', and 'Vicuna'. Default is `['ChatGPT', 'Yi', 'OpenChat']`.
 - `train_indexes`: List of LLM indexes for training. Default is `[0, 1, 2]`.
 - `test_indexes`: List of LLM indexes for testing. Default is `[0]`.
+- `num_samples`: Number of samples. Default is 5000.
 
 ### Examples
 
