@@ -35,8 +35,8 @@ To run the script, use the following command:
 
 ## Dataset
 
-The `dataset.csv` file contains both human and generated texts from 11 large language models, including:
-'ChatGPT', 'Yi', 'OpenChat', 'Gemini', 'LLaMa', 'Phi', 'Mixtral', 'QWen', 'OLMO', 'WizardLM', and 'Vicuna'.
+The `dataset.csv` file contains both human and generated texts from 12 large language models, including:
+ChatGPT, GPT-4o, Yi, OpenChat, Gemini, LLaMa, Phi, Mixtral, QWen, OLMO, WizardLM, and Vicuna.
 
 ### Acknowledgements
 
