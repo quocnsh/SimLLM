@@ -3,7 +3,7 @@
 ## Requirements
 
 1. **API Keys**
-   - Obtain API keys for the corresponding models and insert them into the first three lines of the `SimLLM.py` file:
+   - Obtain API keys for the corresponding models and insert them into the `SimLLM.py` file:
      - ChatGPT: [OpenAI API](https://openai.com/index/openai-api/)
      - Gemini: [Google Gemini API](https://ai.google.dev/gemini-api/docs/api-key)
      - Other LLMs: [Together API](https://api.together.ai/)
